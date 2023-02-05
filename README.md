@@ -10,3 +10,5 @@ The movable sphere can be moved accordingly:
  The window size I use: 
  - width: 100 characters
  - height: 51 characters
+
+This is a project where I focused on the raytracing technology more than anything else, so it is more than likely to conatin memory leaks.
