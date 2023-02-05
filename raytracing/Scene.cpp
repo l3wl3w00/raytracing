@@ -1,6 +1,5 @@
 #include "Sphere.h"
 #include "Plane.h"
-#include "Torus.h"
 vec3 Scene::getCameraPos() const
 {
 	return cameraPos;
